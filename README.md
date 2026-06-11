@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
