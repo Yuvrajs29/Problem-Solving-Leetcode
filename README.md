@@ -21,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0113-path-sum-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Linked List
 |  |
@@ -48,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Stack
 |  |
