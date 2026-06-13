@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Ordered Set
