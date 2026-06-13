@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
+## Two Pointers
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
