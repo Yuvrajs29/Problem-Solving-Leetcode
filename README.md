@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -54,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
