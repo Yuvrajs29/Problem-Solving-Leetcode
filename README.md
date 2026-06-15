@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -94,4 +96,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
