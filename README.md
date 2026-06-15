@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
