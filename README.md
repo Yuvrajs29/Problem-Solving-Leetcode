@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
@@ -107,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
