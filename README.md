@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0493-reverse-pairs) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
