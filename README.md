@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0493-reverse-pairs) |
 | [0503-next-greater-element-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
