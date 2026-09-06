@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0136-single-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
@@ -177,5 +178,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
