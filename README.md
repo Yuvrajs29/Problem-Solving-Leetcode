@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0493-reverse-pairs) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0493-reverse-pairs) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -168,4 +172,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
