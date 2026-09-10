@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
