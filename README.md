@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0283-move-zeroes) |
 ## Recursion
@@ -186,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Yuvrajs29/Problem-Solving-Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
